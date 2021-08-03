@@ -1,2 +1,2 @@
-# Ricochet_
+# Ricochet
  

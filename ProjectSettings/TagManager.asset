@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - GUI Camera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Environment
+  - Walls
+  - Shield
+  - Enemy
+  - Not Collide
+  - Damageable Objects
+  - Shield Kinematic
+  - Dead Enemy
+  - UI Particle
+  - Damageable Projectiles
+  - Shop Cameras/VCAM1
+  - Shop Cameras/VCAM2
+  - Shop Cameras/VCAM3
+  - Shop Cameras/VCAM4
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b5fac0c407948543884a36a7303a8c9, type: 3}
+  m_Name: Classic Area 2
+  m_EditorClassIdentifier: 
+  levelButtonPrefab: {fileID: 173751946620259731, guid: 2262faa3ffd2d0344a1127cb257b7b15, type: 3}
+  backgroundImage: {fileID: 21300000, guid: 6223a80385a6cb5428031b10c59085ea, type: 3}
+  areaIndex: 2
+  levelsCount: 10
+  gameMode: 0
